@@ -38,9 +38,10 @@
   }
   
   .social{
+    margin-top: 10px;
     font-size: 20px;
     color: rgb(19, 19, 20);
-    font-weight: 900;
+    font-weight: 900px;
     text-align: center;
     line-height: 50px;
   }
@@ -48,16 +49,18 @@
     font-size: 0;
   }
   .left-text{
+    margin: -600px -40px 0 0;
     width: 50%;
     display: inline-block;
     background: #f77;
-    font-size: 40px;
+    font-size: 30px;
+    text-align: left;
   }
   .right-text{
-    
+    margin: -600px 0 0 0;
     width: 50%;
     display: inline-block;
     background: #ff7;
-    font-size: 40px;
+    font-size: 30px;
     text-align: right;
   }
