@@ -25,6 +25,7 @@
     font-weight: 900;
     text-align: center;
     line-height: 200px;
+    font-family: 'Oswald',sans-serif;
   }
   
   .job{
@@ -35,6 +36,7 @@
     font-weight: 900;
     text-align: center;
     line-height: 80px;
+    font-family: 'Oswald',sans-serif;
   }
   
   .social{
@@ -55,6 +57,7 @@
     background: #f77;
     font-size: 30px;
     text-align: left;
+    font-family: 'Oswald',sans-serif;
   }
   .right-text{
     margin: -600px 0 0 0;
@@ -63,4 +66,16 @@
     background: #ff7;
     font-size: 30px;
     text-align: right;
+    font-family: 'Oswald',sans-serif;
+  }
+  .level{
+    margin: 15px 0 0 445px;
+    width: 10%;
+    display: block;
+    background: rgb(4, 87, 170);
+    font-size: 30px;
+    text-align: center;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-family: 'Oswald',sans-serif;
   }
